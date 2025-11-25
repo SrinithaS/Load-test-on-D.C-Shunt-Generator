@@ -41,3 +41,4 @@ Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 Result:
+Thus the Characteristics of DC Shunt Generators are analysed and load characteristics are verified.
